@@ -1,3 +1,3 @@
-# carloshuertag.github.io
+# @carloshuertag Personal web site
 
-Personal web site to display my portfolio, CV, docs, public key and stuff.
+This personal website uses Google's material design 3 (material you) to display relevant information.
