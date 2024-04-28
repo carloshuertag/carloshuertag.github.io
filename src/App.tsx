@@ -1,35 +1,36 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import BottomAppBar from "./components/navigation/BottomAppBar";
+import NavigationDrawer from "./components/navigation/NavigationDrawer";
+import NavigationRail from "./components/navigation/NavigationRail";
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
+  const showContactPane = () => {
+    document.getElementById("mainContact")?.classList.add("active");
+  };
+  const hideContactPane = () => {
+    document.getElementById("mainContact")?.classList.remove("active");
+  };
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <BottomAppBar />
+      <NavigationRail />
+      <NavigationDrawer contactPaneExpander={showContactPane} />
+      <main className='responsive'>
+        <div className='grid'>
+          <section className='s12 l6 page active'>
+            <h1>Hello World!</h1>
+          </section>
+          <section className='l6 page right' id='mainContact'>
+            <h3>
+              <button className='circle transparent' onClick={hideContactPane}>
+                <i>close</i>
+              </button>
+              Contact
+            </h3>
+          </section>
+        </div>
+      </main>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
