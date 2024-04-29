@@ -1,0 +1,9 @@
+.landscape {
+  max-height: 50vh;
+}
+
+@media screen and (min-width: 576px) {
+  .landscape {
+    object-position: 0 70% !important;
+  }
+}
