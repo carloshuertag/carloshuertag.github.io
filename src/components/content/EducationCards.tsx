@@ -4,7 +4,7 @@ const EducationCards = () => {
       <div className='s12'>
         <h4>Education</h4>
       </div>
-      <div className='s12 m6 l4 educationCard'>
+      <div className='s12 m6 educationCard'>
         <article className='round fill'>
           <div className='row'>
             <img
@@ -19,7 +19,7 @@ const EducationCards = () => {
           </div>
         </article>
       </div>
-      <div className='s12 m6 l4 educationCard'>
+      <div className='s12 m6 educationCard'>
         <article className='round fill'>
           <div className='row'>
             <img
@@ -34,11 +34,11 @@ const EducationCards = () => {
           </div>
         </article>
       </div>
-      <div className='s12 m6 l4 educationCard'>
+      <div className='s12 m6 educationCard'>
         <article className='round fill'>
           <div className='row'>
             <img
-              className='circle large'
+              className='round large'
               src='/cecyt9.png'
               alt='CEECyT 9 logo'
             ></img>
