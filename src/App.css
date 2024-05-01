@@ -1,0 +1,11 @@
+@media screen and (min-width: 992px) {
+  .fixed-drawer {
+    z-index: 1 !important;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .fixed-top-app-bar {
+    padding-bottom: 0 !important;
+  }
+}
