@@ -36,7 +36,7 @@ const items: EducationItem[] = [
     extra: [
       {
         name: "Exchange Program",
-        href: "https://drive.google.com/file/d/1Y7YDpuZJUGKc_2d3q0q5u_Q5IC1ScfiC/view?usp=sharing",
+        href: "/etsisi.pdf",
       },
     ],
     imageSource: "/etsisi.jpg",
