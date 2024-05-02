@@ -1,6 +1,6 @@
 import "./App.css";
 import BioCard from "./components/content/BioCard/BioCard";
-import EducationCards from "./components/content/EducationCards";
+import Education from "./components/content/Education";
 import BottomAppBar from "./components/navigation/BottomAppBar";
 import NavigationDrawer from "./components/navigation/NavigationDrawer";
 import NavigationRail from "./components/navigation/NavigationRail";
@@ -17,7 +17,7 @@ const App = () => {
         <div className='grid main-container'>
           <section className='s12 l12 page active' id='mainContent'>
             <BioCard />
-            <EducationCards />
+            <Education />
           </section>
         </div>
       </main>

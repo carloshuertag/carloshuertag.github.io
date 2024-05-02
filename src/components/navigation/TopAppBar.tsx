@@ -36,7 +36,7 @@ const TopAppBar = () => {
         document.body.style.backgroundImage = `url('${bgUrl}')`;
         document.documentElement.style.setProperty(
           "background-color",
-          "--var(background)"
+          "--var(background);"
         );
       })
       .catch((error: unknown) => {
