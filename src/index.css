@@ -1,11 +1,100 @@
+:root,
+body.light {
+  --primary: rgb(39 99 137);
+  --surface-tint: rgb(39 99 137);
+  --on-primary: rgb(255 255 255);
+  --primary-container: rgb(202 230 255);
+  --on-primary-container: rgb(0 30 48);
+  --secondary: rgb(80 96 110);
+  --on-secondary: rgb(255 255 255);
+  --secondary-container: rgb(211 229 245);
+  --on-secondary-container: rgb(12 29 41);
+  --tertiary: rgb(101 89 123);
+  --on-tertiary: rgb(255 255 255);
+  --tertiary-container: rgb(235 221 255);
+  --on-tertiary-container: rgb(32 22 52);
+  --error: rgb(186 26 26);
+  --on-error: rgb(255 255 255);
+  --error-container: rgb(255 218 214);
+  --on-error-container: rgb(65 0 2);
+  --background: rgb(247 249 255);
+  --on-background: rgb(24 28 32);
+  --surface: rgb(247 249 255);
+  --on-surface: rgb(24 28 32);
+  --surface-variant: rgb(221 227 234);
+  --on-surface-variant: rgb(65 71 77);
+  --outline: rgb(114 120 126);
+  --outline-variant: rgb(193 199 206);
+  --shadow: rgb(0 0 0);
+  --scrim: rgb(0 0 0);
+  --inverse-surface: rgb(45 49 53);
+  --inverse-on-surface: rgb(238 241 246);
+  --inverse-primary: rgb(150 205 248);
+  --surface-dim: rgb(215 218 223);
+  --surface-bright: rgb(247 249 255);
+  --surface-container-lowest: rgb(255 255 255);
+  --surface-container-low: rgb(241 244 249);
+  --surface-container: rgb(235 238 243);
+  --surface-container-high: rgb(229 232 237);
+  --surface-container-highest: rgb(224 227 232);
+  --overlay: rgb(0 0 0 / 0.5);
+  --active: rgb(0 0 0 / 0.1);
+  --elevate1: 0 0.125rem 0.125rem 0 rgb(0 0 0 / 0.32);
+  --elevate2: 0 0.25rem 0.5rem 0 rgb(0 0 0 / 0.4);
+  --elevate3: 0 0.375rem 0.75rem 0 rgb(0 0 0 / 0.48);
+}
+
+body.dark {
+  --primary: rgb(255 182 144);
+  --surface-tint: rgb(255 182 144);
+  --on-primary: rgb(84 34 2);
+  --primary-container: rgb(112 55 21);
+  --on-primary-container: rgb(255 219 203);
+  --secondary: rgb(230 190 171);
+  --on-secondary: rgb(67 43 30);
+  --secondary-container: rgb(92 64 50);
+  --on-secondary-container: rgb(255 219 203);
+  --tertiary: rgb(207 200 144);
+  --on-tertiary: rgb(53 49 7);
+  --tertiary-container: rgb(76 72 28);
+  --on-tertiary-container: rgb(235 228 170);
+  --error: rgb(255 180 171);
+  --on-error: rgb(105 0 5);
+  --error-container: rgb(147 0 10);
+  --on-error-container: rgb(255 218 214);
+  --background: rgb(26 18 14);
+  --on-background: rgb(240 223 216);
+  --surface: rgb(26 18 14);
+  --on-surface: rgb(240 223 216);
+  --surface-variant: rgb(82 68 61);
+  --on-surface-variant: rgb(215 194 185);
+  --outline: rgb(160 141 132);
+  --outline-variant: rgb(82 68 61);
+  --shadow: rgb(0 0 0);
+  --scrim: rgb(0 0 0);
+  --inverse-surface: rgb(240 223 216);
+  --inverse-on-surface: rgb(56 46 42);
+  --inverse-primary: rgb(141 78 42);
+  --surface-dim: rgb(26 18 14);
+  --surface-bright: rgb(65 55 50);
+  --surface-container-lowest: rgb(20 12 9);
+  --surface-container-low: rgb(34 26 21);
+  --surface-container: rgb(39 30 25);
+  --surface-container-high: rgb(50 40 35);
+  --surface-container-highest: rgb(61 51 46);
+  --overlay: rgb(0 0 0 / 0.5);
+  --active: rgb(255 255 255 / 0.2);
+  --elevate1: 0 0.125rem 0.125rem 0 rgb(0 0 0 / 0.32);
+  --elevate2: 0 0.25rem 0.5rem 0 rgb(0 0 0 / 0.4);
+  --elevate3: 0 0.375rem 0.75rem 0 rgb(0 0 0 / 0.48);
+}
+
 :root {
   line-height: 1.5;
   font-weight: 400;
-
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  color: var(--on-background);
+  background-color: var(--background);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -14,4 +103,8 @@
 
 body {
   margin: 0;
+  background-image: url("/light_bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }

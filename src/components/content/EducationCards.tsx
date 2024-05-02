@@ -1,10 +1,7 @@
 const EducationCards = () => {
   return (
-    <div className='grid' id='education'>
-      <div className='s12'>
-        <h4>Education</h4>
-      </div>
-      <div className='s12 m6 l4 educationCard'>
+    <div className='grid page left active anchor' id='education'>
+      <div className='s12 m6 educationCard'>
         <article className='round fill'>
           <div className='row'>
             <img
@@ -19,7 +16,7 @@ const EducationCards = () => {
           </div>
         </article>
       </div>
-      <div className='s12 m6 l4 educationCard'>
+      <div className='s12 m6 educationCard'>
         <article className='round fill'>
           <div className='row'>
             <img
@@ -34,7 +31,7 @@ const EducationCards = () => {
           </div>
         </article>
       </div>
-      <div className='s12 m6 l4 educationCard'>
+      <div className='s12 m6 educationCard'>
         <article className='round fill'>
           <div className='row'>
             <img
