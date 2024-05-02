@@ -4,7 +4,7 @@ import NavItems from "./NavItems";
 const NavigationRail = () => {
   return (
     <>
-      <nav className='m left'>
+      <nav className='m left fill'>
         <header>
           <span className='large-text bold'>Carlos Huerta García</span>
         </header>

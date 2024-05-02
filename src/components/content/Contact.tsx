@@ -1,7 +1,10 @@
 const Contact = () => {
   return (
     <>
-      <p>For any reason you can contact me through the following means:</p>
+      <div className='space'></div>
+      <p className='large-text'>
+        For any reason you can contact me through the following means:
+      </p>
       <nav className='drawer max no-padding'>
         <a href='mailto:chuertag@duck.com'>
           <i>email</i>
@@ -12,7 +15,9 @@ const Contact = () => {
           <span>Phone</span>
         </a>
         <div className='small-divider'></div>
-        <p className='vertical-margin'>Additionally, you can find me on:</p>
+        <p className='large-text vertical-margin'>
+          Additionally, you can find me on:
+        </p>
         <a href='https://www.linkedin.com/in/carloshuertagarcia/'>
           <i className='small-round'>
             <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'>

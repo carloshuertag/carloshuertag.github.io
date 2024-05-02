@@ -4,7 +4,7 @@ import NavItems from "./NavItems";
 const BottomAppBar = () => {
   return (
     <>
-      <nav className='s bottom'>
+      <nav className='s bottom fill'>
         <NavItems />
         <a data-ui='#bottomContact'>
           <button className='square round extra'>

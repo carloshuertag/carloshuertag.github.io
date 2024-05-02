@@ -7,6 +7,7 @@ const NavigationDrawer = () => {
         <span className='large-text bold'>Carlos Huerta García</span>
       </header>
       <NavItems />
+      <div className='space'></div>
       <button className='responsive round extra' data-ui='#rightContact'>
         <i>person_add</i>
         <span>Contact me</span>

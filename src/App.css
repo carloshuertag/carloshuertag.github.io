@@ -1,6 +1,9 @@
 @media screen and (min-width: 992px) {
   .fixed-drawer {
-    z-index: 1 !important;
+    z-index: 13 !important;
+  }
+  .main-container {
+    padding-left: 0.5rem;
   }
 }
 
@@ -8,4 +11,8 @@
   .fixed-top-app-bar {
     padding-bottom: 0 !important;
   }
+}
+
+.anchor {
+  scroll-margin-top: 12vh;
 }

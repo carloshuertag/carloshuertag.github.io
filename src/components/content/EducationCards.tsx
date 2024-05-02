@@ -1,9 +1,6 @@
 const EducationCards = () => {
   return (
-    <div className='grid' id='education'>
-      <div className='s12'>
-        <h4>Education</h4>
-      </div>
+    <div className='grid page left active anchor' id='education'>
       <div className='s12 m6 educationCard'>
         <article className='round fill'>
           <div className='row'>
@@ -38,7 +35,7 @@ const EducationCards = () => {
         <article className='round fill'>
           <div className='row'>
             <img
-              className='round large'
+              className='circle large'
               src='/cecyt9.png'
               alt='CEECyT 9 logo'
             ></img>
