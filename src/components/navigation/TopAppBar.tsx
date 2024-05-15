@@ -36,7 +36,7 @@ const TopAppBar = () => {
         document.body.style.backgroundImage = `url('${bgUrl}')`;
         document.documentElement.style.setProperty(
           "background-color",
-          "--var(background)"
+          "--var(background);"
         );
       })
       .catch((error: unknown) => {
@@ -58,7 +58,7 @@ const TopAppBar = () => {
   setTheme();
   return (
     <>
-      <header className='responsive fixed fixed-top-app-bar small-blur'>
+      <header className='responsive fixed fixed-top-app-bar small-blur max'>
         <nav>
           <div className='max'></div>
           <button className='circle transparent' onClick={toogleThemeMode}>

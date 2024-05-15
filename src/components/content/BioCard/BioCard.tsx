@@ -13,10 +13,10 @@ const BioCard = () => {
           <h3>Carlos Huerta García</h3>
           <h6>Software Developer</h6>
           <p className='large-text'>
-            I am a software engineer who has been participating in each and
-            every phase of the application life managment cycle within multiple
-            areas. I look forward to lead software projects focusing on
-            improving the life condition of the people
+            I am a software engineer with 5 years of experience participating in
+            each stage of application lifecycle management within multiple
+            areas. I am looking forward to participate in software projects
+            focusing on improving people&apos;s life conditions.
           </p>
         </div>
       </article>
