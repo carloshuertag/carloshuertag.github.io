@@ -2,15 +2,9 @@ import { useState } from "react";
 import EducationItem from "../../interfaces/EducationItem";
 
 const EducationCard = ({ education }: { education: EducationItem }) => {
-  const [isExpanded, setIsExpanded] = useState(true);
-  let expandIconText = "expand_more";
-  const expandIcon = document.getElementById(
-    "expandIcon".concat(education.index.toString())
-  );
+  const [isExpanded, setIsExpanded] = useState<boolean>(false);
   const toggleCard = () => {
     setIsExpanded(!isExpanded);
-    expandIconText = isExpanded ? "expand_less" : "expand_more";
-    if (expandIcon) expandIcon.innerText = expandIconText;
   };
   return (
     <div className='s12 m6'>
@@ -25,11 +19,11 @@ const EducationCard = ({ education }: { education: EducationItem }) => {
               ></img>
               <div className='max'>
                 <h5>{education.fieldOfStudy}</h5>
-                <nav>
+                <nav className='no-margin'>
                   <span className='large-text max'>{education.degree}</span>
                   <a className='button circle transparent'>
                     <i id={"expandIcon".concat(education.index.toString())}>
-                      {expandIconText}
+                      {isExpanded ? "expand_less" : "expand_more"}
                     </i>
                   </a>
                 </nav>
