@@ -1,6 +1,7 @@
 import "./App.css";
 import BioCard from "./components/content/BioCard/BioCard";
 import Education from "./components/content/Education";
+import Experience from "./components/content/ExperienceCarousel/ExperienceCarousel";
 import BottomAppBar from "./components/navigation/BottomAppBar";
 import NavigationDrawer from "./components/navigation/NavigationDrawer";
 import NavigationRail from "./components/navigation/NavigationRail";
@@ -15,9 +16,12 @@ const App = () => {
       <TopAppBar />
       <main className='responsive'>
         <div className='grid main-container'>
-          <section className='s12 l12 page active' id='mainContent'>
+          <section className='s12 page top active'>
             <BioCard />
             <Education />
+          </section>
+          <section className='s12 page left active'>
+            <Experience />
           </section>
         </div>
       </main>
