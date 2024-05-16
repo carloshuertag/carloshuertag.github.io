@@ -1,27 +1,26 @@
 [
   {
     "index": 0,
-    "cover": "image",
     "coverSource": "/RDD.png",
     "title": "Digital Didactic Resource",
     "startYear": 2024,
     "endYear": 2024,
     "description": "Single page application developed in Angular 13 with Bootstrap 4 as part of the tasks performed during social service. Some of the tasks performed were front-end development using Gitflow and GitHub Projects, multiple environment configuration, among others.",
-    "href": "https://gentle-ocean-0ee8b0410.4.azurestaticapps.net/"
+    "href": "https://github.com/ServicioSocialAxel/GestionEmpresarial",
+    "media": "https://gentle-ocean-0ee8b0410.4.azurestaticapps.net/"
   },
   {
     "index": 1,
-    "cover": "image",
     "coverSource": "/Democracyte.png",
     "title": "Democracyte",
     "startYear": 2022,
     "endYear": 2024,
     "description": "Web tool to support e-democracy processes using Blockchain. Leader of team-based degree work consisting of a website, a functions application (FaaS), a NoSQL database and a smart contract using SCRUM as framework and software methodology.",
-    "href": "https://green-bush-09a621510.3.azurestaticapps.net/"
+    "href": "https://green-bush-09a621510.3.azurestaticapps.net/",
+    "media": "https://www.youtube-nocookie.com/embed/6CT9WclJpOI?si=6vnGi9zq1wC7sC3j"
   },
   {
     "index": 2,
-    "cover": "image",
     "coverSource": "/SpaceRide.png",
     "title": "Space Ride",
     "startYear": 2019,
@@ -31,27 +30,26 @@
   },
   {
     "index": 5,
-    "cover": "image",
     "coverSource": "/URadio.jpg",
     "title": "UЯRadio",
     "startYear": 2022,
     "endYear": 2022,
     "description": "A web and mobile information system for the registration by those responsible for music radio programs of the information of the program and the songs that they reproduce during their broadcasts, the consultation of said information by radio listeners and the recognition of song information from audio tracks by the latter (through the use of the ACRCloud API), with the possibility of accessing the identified songs through the Spotify platform (using its API too).",
-    "href": "https://github.com/carloshuertag/URadio"
+    "href": "https://github.com/carloshuertag/URadio",
+    "media": "https://www.youtube-nocookie.com/embed/R-zyMeI4RZg?si=4iLzSEo1ZYSjo-8o"
   },
   {
     "index": 6,
-    "cover": "image",
     "coverSource": "/Aki.jpg",
     "title": "Aki",
     "startYear": 2021,
     "endYear": 2021,
     "description": "A store management system that allows you to display store inventories, update information, purchase products and generate a user profile.",
-    "href": "https://github.com/a-elg/Proyecto_Tienditas"
+    "href": "https://github.com/a-elg/Proyecto_Tienditas",
+    "media": "https://www.youtube-nocookie.com/embed/A230_rcAudY?si=QMrW7faTUJ77oJz8"
   },
   {
     "index": 3,
-    "cover": "image",
     "coverSource": "/portrait.jpg",
     "title": "Movie Ratings and Reviews",
     "startYear": 2023,
@@ -61,7 +59,6 @@
   },
   {
     "index": 4,
-    "cover": "image",
     "coverSource": "/landscape.jpg",
     "title": "AR Tower Takedown",
     "startYear": 2023,
