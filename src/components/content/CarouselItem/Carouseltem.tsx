@@ -1,15 +1,16 @@
-import ExperienceItem from "../../interfaces/ExperienceItem";
+import ExperienceItem from "../../../interfaces/ExperienceItem";
+import "./CarouselItem.css";
 
 const CarouselItem = ({ experience }: { experience: ExperienceItem }) => {
   return (
     <article className='no-padding round tertiary-container'>
       {experience.cover === "video" ? (
-        <video className='medium-height responsive' muted loop playsInline>
+        <video className='carousel-item responsive' muted loop playsInline>
           <source src={experience.coverSource} type='video/mp4' />
         </video>
       ) : (
         <img
-          className='medium-height responsive'
+          className='carousel-item responsive'
           src={experience.coverSource}
           loading='lazy'
           alt={experience.title.concat(" cover")}
@@ -20,7 +21,10 @@ const CarouselItem = ({ experience }: { experience: ExperienceItem }) => {
         <div className='max'></div>
         <nav>
           <span className='large-text max'>
-            {experience.startYear}-{experience.endYear}
+            {experience.startYear}
+            {experience.startYear != experience.endYear && (
+              <span> - {experience.endYear}</span>
+            )}
           </span>
           <button className='circle transparent'>
             <i>expand_content</i>
