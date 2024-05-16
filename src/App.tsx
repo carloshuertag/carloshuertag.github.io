@@ -27,19 +27,20 @@ const App = () => {
           <section className='s12 page bottom active'>
             <Skills />
           </section>
-          <section className='s12 page top active large-divider'>
-            <p>
-              Background photos taken by yours truly.{" "}
+          <section className='s12 page bottom active'>
+            <div className='large-divider'></div>
+            <article className='primary round responsive bottom-margin'>
+              All displayed photos were taken by yours truly. Carlos Huerta
+              Garcia&apos;s portfolio is licensed under{" "}
               <a
-                className='link'
+                className='inverse-link'
                 href='https://www.gnu.org/licenses/gpl-3.0.html'
                 target='_blank'
                 rel='noreferrer'
               >
-                GPL v3 Licensed
+                GPL v3 License.
               </a>
-              .
-            </p>
+            </article>
           </section>
         </div>
       </main>
