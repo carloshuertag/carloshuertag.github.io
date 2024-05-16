@@ -1,10 +1,12 @@
 import SkillItem from "../../interfaces/SkillItem";
 
 const bgClasses: string[] = [
-  "",
   "fill",
+  "primary",
   "primary-container",
+  "secondary",
   "secondary-container",
+  "tertiary",
   "tertiary-container",
 ];
 
