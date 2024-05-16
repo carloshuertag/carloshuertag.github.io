@@ -41,7 +41,7 @@ const EducationCard = ({ education }: { education: EducationItem }) => {
             {education.extra.map(({ name, href }) => (
               <a
                 key={name}
-                className='row no-padding transparent wave'
+                className='row no-padding transparent wave small-round'
                 href={href}
                 target='_blank'
                 rel='noreferrer'
@@ -49,7 +49,7 @@ const EducationCard = ({ education }: { education: EducationItem }) => {
                 <div className='max'>
                   <h6 className='small'>{name}</h6>
                 </div>
-                <button className='button circle transparent'>
+                <button className='circle transparent'>
                   <i>open_in_new</i>
                 </button>
               </a>
