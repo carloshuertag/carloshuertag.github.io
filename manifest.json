@@ -1,0 +1,20 @@
+{
+  "short_name": "Carlos' Portfolio",
+  "name": "Carlos Huerta García's Portfolio",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192 144x144 96x96 72x72 48x48 36x36 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "avatar.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#dee3eb",
+  "background_color": "#dee3eb"
+}
