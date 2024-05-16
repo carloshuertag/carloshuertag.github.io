@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import ExperienceItem from "../../../interfaces/ExperienceItem";
-import CarouselItem from "../Carouseltem";
+import CarouselItem from "../CarouselItem/Carouseltem";
 import "./ExperienceCarousel.css";
 import ExperienceData from "../../../data/experience.json";
 
