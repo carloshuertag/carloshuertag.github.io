@@ -1,0 +1,540 @@
+[
+  {
+    "index": 0,
+    "title": "Soft Skills",
+    "skills": [
+      {
+        "index": 0,
+        "name": "Critical Thinking",
+        "href": ""
+      },
+      {
+        "index": 1,
+        "name": "Problem analysis and solving",
+        "href": ""
+      },
+      {
+        "index": 2,
+        "name": "Strategic Planning",
+        "href": "/strategic.pdf"
+      },
+      {
+        "index": 3,
+        "name": "Presentation",
+        "href": "/presentation.pdf"
+      },
+      {
+        "index": 4,
+        "name": "Leadership",
+        "href": ""
+      },
+      {
+        "index": 5,
+        "name": "Empathy",
+        "href": ""
+      },
+      {
+        "index": 6,
+        "name": "Self-regulation",
+        "href": ""
+      },
+      {
+        "index": 7,
+        "name": "Teamwork",
+        "href": ""
+      },
+      {
+        "index": 8,
+        "name": "Negotiation",
+        "href": ""
+      },
+      {
+        "index": 9,
+        "name": "Mentoring",
+        "href": ""
+      },
+      {
+        "index": 10,
+        "name": "Self-learning",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "title": "Languages",
+    "skills": [
+      {
+        "index": 11,
+        "name": "English B2",
+        "href": "https://certs.duolingo.com/f6b479f7f2b35605b6d813091f6ab5d5"
+      },
+      {
+        "index": 12,
+        "name": "Spanish Native",
+        "href": ""
+      },
+      {
+        "index": 13,
+        "name": "French A1",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "title": "Algorithms, Data Structures and Competitive Programming",
+    "skills": [
+      {
+        "index": 58,
+        "name": "C",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 59,
+        "name": "C++",
+        "years": 4,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "title": "UI/UX",
+    "skills": [
+      {
+        "index": 34,
+        "name": "Figma",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 35,
+        "name": "Adobe XD",
+        "years": 3,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "Application Lifecycle Management",
+    "skills": [
+      {
+        "index": 14,
+        "name": "SCRUM",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 15,
+        "name": "Xtreame Programming",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 16,
+        "name": "UML",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 17,
+        "name": "Git",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 18,
+        "name": "GitHub",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 19,
+        "name": "Jira",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 20,
+        "name": "Confluence",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 21,
+        "name": "SonarQube/SonarCloud",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 22,
+        "name": "Jest",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 23,
+        "name": "JUnit",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 24,
+        "name": "Docker",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 25,
+        "name": "Dev Containers",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 26,
+        "name": "DevOps",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 27,
+        "name": "Azure DevOps",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 28,
+        "name": "Jenkins",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 29,
+        "name": "Github Actions",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 30,
+        "name": "CI & CD",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 31,
+        "name": "YAML",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 32,
+        "name": "GitFlow",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 33,
+        "name": "Bitbucket",
+        "years": 6,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "title": "Web: Front-end",
+    "skills": [
+      {
+        "index": 36,
+        "name": "React.js",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 37,
+        "name": "Angular",
+        "years": 1,
+        "href": ""
+      },
+      {
+        "index": 38,
+        "name": "TypeScript",
+        "years": 3,
+        "href": ""
+      },
+      {
+        "index": 39,
+        "name": "Bootstrap",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 40,
+        "name": "JavaScript",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 41,
+        "name": "HTML",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 42,
+        "name": "CSS",
+        "years": 6,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "title": "Web: Back-end",
+    "skills": [
+      {
+        "index": 43,
+        "name": "JavaScript",
+        "years": 4,
+        "href": ""
+      },
+      {
+        "index": 44,
+        "name": "TypeScript",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 45,
+        "name": "Node.js",
+        "years": 4,
+        "href": ""
+      },
+      {
+        "index": 46,
+        "name": "Express.js",
+        "years": 4,
+        "href": ""
+      },
+      {
+        "index": 47,
+        "name": "Azure Functions",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 48,
+        "name": "Java",
+        "years": 6,
+        "href": ""
+      },
+      {
+        "index": 49,
+        "name": "Java EE",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 50,
+        "name": "Java FX",
+        "years": 3,
+        "href": ""
+      },
+      {
+        "index": 51,
+        "name": "Python",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 52,
+        "name": "AWS Lambda",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 53,
+        "name": "SQL",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 54,
+        "name": "MySQL",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 55,
+        "name": "PostgreSQL",
+        "years": 4,
+        "href": ""
+      },
+      {
+        "index": 56,
+        "name": "NoSQL",
+        "years": 3,
+        "href": ""
+      },
+      {
+        "index": 57,
+        "name": "MongoDB Atlas",
+        "years": 2,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "title": "Blockchain Smart Contracts: NEAR",
+    "skills": [
+      {
+        "index": 60,
+        "name": "TypeScript",
+        "years": 3,
+        "href": ""
+      },
+      {
+        "index": 61,
+        "name": "AssemblyScript",
+        "years": 3,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "title": "Blockchain Smart Contracts: Polkadot",
+    "skills": [
+      {
+        "index": 63,
+        "name": "Rust",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 64,
+        "name": "Substrate",
+        "years": 2,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "title": "Mobile Applications: Native",
+    "skills": [
+      {
+        "index": 65,
+        "name": "Java",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 66,
+        "name": "Kotlin",
+        "years": 3,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "title": "Hybrid",
+    "skills": [
+      {
+        "index": 69,
+        "name": "Dart",
+        "years": 3,
+        "href": "/dartflutter.pdf"
+      },
+      {
+        "index": 70,
+        "name": "Flutter",
+        "years": 3,
+        "href": "/dartflutter.pdf"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "title": "Artificial Intelligence",
+    "skills": [
+      {
+        "index": 71,
+        "name": "Python",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 72,
+        "name": "Jupyter Notebooks",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 73,
+        "name": "Deep Learning",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 74,
+        "name": "Q Learning",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 75,
+        "name": "Reinforcement Learning",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 76,
+        "name": "Genetic Algorithms",
+        "years": 2,
+        "href": ""
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "title": "Mixed Reality (Augmented and Virtual Reality)",
+    "skills": [
+      {
+        "index": 77,
+        "name": "C#",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 78,
+        "name": "Unity",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 79,
+        "name": "Vuforia",
+        "years": 2,
+        "href": ""
+      },
+      {
+        "index": 80,
+        "name": "AR Core",
+        "years": 5,
+        "href": ""
+      },
+      {
+        "index": 81,
+        "name": "Google Cardboard",
+        "years": 5,
+        "href": ""
+      }
+    ]
+  }
+]
