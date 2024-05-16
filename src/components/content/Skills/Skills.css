@@ -1,0 +1,30 @@
+.adaptive-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 1rem;
+  grid-auto-rows: auto;
+}
+
+@media screen and (max-width: 576px) {
+  .adaptive-grid * {
+    grid-column-end: span 12;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .adaptive-grid * {
+    grid-column-end: span 6;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .adaptive-grid * {
+    grid-column-end: span 4;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .adaptive-grid * {
+    grid-column-end: span 3;
+  }
+}
