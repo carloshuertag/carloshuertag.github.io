@@ -34,6 +34,12 @@ const CarouselItem = ({ experience }: { experience: ExperienceItem }) => {
         <nav>
           <div className='max'>
             <h5 className='wrap'>{experience.title}</h5>
+            <h6>
+              {experience.startYear}
+              {experience.startYear != experience.endYear && (
+                <span> - {experience.endYear}</span>
+              )}
+            </h6>
           </div>
           <button
             className='circle transparent'
@@ -55,13 +61,14 @@ const CarouselItem = ({ experience }: { experience: ExperienceItem }) => {
           ></iframe>
         ) : (
           <img
-            className='responsive large-height top-margin round'
+            className='responsive top-margin round'
+            style={{ height: "50vh" }}
             src={experience.coverSource}
             loading='lazy'
             alt={experience.title.concat(" cover")}
           />
         )}
-        <p className='bottom-padding'>{experience.description}</p>
+        <p className='bottom-padding large-text'>{experience.description}</p>
         <nav className='right-align'>
           <button
             className='border'

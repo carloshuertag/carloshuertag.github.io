@@ -154,91 +154,91 @@
       {
         "index": 19,
         "name": "Jira",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 20,
         "name": "Confluence",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 21,
         "name": "SonarQube/SonarCloud",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 22,
         "name": "Jest",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 23,
         "name": "JUnit",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 24,
         "name": "Docker",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 25,
         "name": "Dev Containers",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 26,
         "name": "DevOps",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 27,
         "name": "Azure DevOps",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 28,
         "name": "Jenkins",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 29,
         "name": "Github Actions",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 30,
         "name": "CI & CD",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 31,
         "name": "YAML",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 32,
         "name": "GitFlow",
-        "years": 1,
+        "years": 2,
         "href": ""
       },
       {
         "index": 33,
         "name": "Bitbucket",
-        "years": 6,
+        "years": 2,
         "href": ""
       }
     ]
