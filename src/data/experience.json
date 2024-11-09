@@ -1,6 +1,16 @@
 [
   {
     "index": 0,
+    "coverSource": "https://thelogisticsworld.com/wp-content/uploads/2023/08/Ibursa.jpg",
+    "title": "Systems Analyst",
+    "startYear": 2024,
+    "endYear": 2024,
+    "description": "Microservices design and development with Spring Boot, Hibernate and Oracle PL/SQL. New web application features development using Ext JS, DWR, Spring Framework, Hibernate and Oracle PL/SQL.",
+    "href": "https://www.linkedin.com/in/carloshuertagarcia/",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grupo_Financiero_Inbursa.png/1200px-Grupo_Financiero_Inbursa.png"
+  },
+  {
+    "index": 1,
     "coverSource": "/RDD.png",
     "title": "Digital Didactic Resource",
     "startYear": 2024,
@@ -10,26 +20,26 @@
     "media": "https://gentle-ocean-0ee8b0410.4.azurestaticapps.net/"
   },
   {
-    "index": 1,
+    "index": 2,
     "coverSource": "/Democracyte.png",
     "title": "Democracyte",
     "startYear": 2022,
     "endYear": 2024,
     "description": "Web tool to support e-democracy processes using Blockchain. Leader of team-based degree work consisting of a website, a functions application (FaaS), a NoSQL database and a smart contract using SCRUM as framework and software methodology.",
-    "href": "https://green-bush-09a621510.3.azurestaticapps.net/",
+    "href": "/ConstanciaPonencia.pdf",
     "media": "https://www.youtube-nocookie.com/embed/6CT9WclJpOI?si=6vnGi9zq1wC7sC3j"
   },
   {
-    "index": 2,
+    "index": 3,
     "coverSource": "/SpaceRide.png",
     "title": "Space Ride",
-    "startYear": 2019,
+    "startYear": 2018,
     "endYear": 2019,
-    "description": "Spaceship fighting game featured in a desktop application with a didactic quiz within a web application and display of results statistics in a mobile application. team-based degree work developed with XP methodology and featuring a SQL database.",
+    "description": "Spaceship fight game development featuring a desktop Java Swing application launching a didactic quiz within a web Java EE application, displaying the results statistics through a mobile Android application.",
     "href": "https://github.com/rushtechnologies/SpaceRide"
   },
   {
-    "index": 5,
+    "index": 4,
     "coverSource": "/URadio.jpg",
     "title": "UЯRadio",
     "startYear": 2022,
@@ -39,7 +49,7 @@
     "media": "https://www.youtube-nocookie.com/embed/R-zyMeI4RZg?si=4iLzSEo1ZYSjo-8o"
   },
   {
-    "index": 6,
+    "index": 5,
     "coverSource": "/Aki.jpg",
     "title": "Aki",
     "startYear": 2021,
@@ -49,7 +59,7 @@
     "media": "https://www.youtube-nocookie.com/embed/A230_rcAudY?si=QMrW7faTUJ77oJz8"
   },
   {
-    "index": 3,
+    "index": 6,
     "coverSource": "/portrait.jpg",
     "title": "Movie Ratings and Reviews",
     "startYear": 2023,
@@ -58,7 +68,7 @@
     "href": "https://github.com/carloshuertag/intelligentSystems/blob/main/alexaSkillBot/alexaMovieSkill.ipynb"
   },
   {
-    "index": 4,
+    "index": 7,
     "coverSource": "/landscape.jpg",
     "title": "AR Tower Takedown",
     "startYear": 2023,
