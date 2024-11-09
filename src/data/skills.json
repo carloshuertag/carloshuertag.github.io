@@ -10,7 +10,7 @@
       },
       {
         "index": 1,
-        "name": "Problem analysis and solving",
+        "name": "Problem Analysis and Solving",
         "href": ""
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "index": 6,
-        "name": "Self-regulation",
+        "name": "Self-learning",
         "href": ""
       },
       {
@@ -55,7 +55,7 @@
       },
       {
         "index": 10,
-        "name": "Self-learning",
+        "name": "Self-regulation",
         "href": ""
       }
     ]
@@ -67,7 +67,7 @@
       {
         "index": 11,
         "name": "English B2",
-        "href": "https://certs.duolingo.com/f6b479f7f2b35605b6d813091f6ab5d5"
+        "href": "/ConstanciaIngles.pdf"
       },
       {
         "index": 12,
@@ -339,8 +339,8 @@
       },
       {
         "index": 50,
-        "name": "Java FX",
-        "years": 3,
+        "name": "Spring Boot/Spring Framework",
+        "years": 2,
         "href": ""
       },
       {
@@ -364,7 +364,7 @@
       {
         "index": 54,
         "name": "MySQL",
-        "years": 5,
+        "years": 6,
         "href": ""
       },
       {
@@ -375,8 +375,8 @@
       },
       {
         "index": 56,
-        "name": "NoSQL",
-        "years": 3,
+        "name": "PL/SQL",
+        "years": 1,
         "href": ""
       },
       {
@@ -430,7 +430,7 @@
       {
         "index": 65,
         "name": "Java",
-        "years": 5,
+        "years": 6,
         "href": ""
       },
       {
@@ -508,13 +508,13 @@
       {
         "index": 77,
         "name": "C#",
-        "years": 5,
+        "years": 2,
         "href": ""
       },
       {
         "index": 78,
         "name": "Unity",
-        "years": 5,
+        "years": 4,
         "href": ""
       },
       {

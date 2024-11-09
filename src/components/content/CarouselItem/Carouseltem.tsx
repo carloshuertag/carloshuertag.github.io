@@ -4,7 +4,7 @@ import "./CarouselItem.css";
 const CarouselItem = ({ experience }: { experience: ExperienceItem }) => {
   return (
     <>
-      <article className='no-padding round tertiary-container'>
+      <article className='no-padding round primary-container'>
         <img
           className='carousel-item responsive'
           src={experience.coverSource}
