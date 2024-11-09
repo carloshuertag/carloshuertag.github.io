@@ -23,7 +23,7 @@
   {
     "index": 1,
     "school": "Escuela Técnica Superior de Ingenieros de Sistemas Informáticos - Universidad Politécnica de Madrid",
-    "degree": "Bachelor of Engineering",
+    "degree": "Student Exchange",
     "fieldOfStudy": "Software, Data Science and Artificial Intelligence",
     "startYear": 2023,
     "endYear": 2023,
@@ -31,7 +31,7 @@
     "city": "Madrid",
     "extra": [
       {
-        "name": "Exchange Program",
+        "name": "Certificate",
         "href": "/etsisi.pdf"
       }
     ],
