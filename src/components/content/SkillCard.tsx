@@ -17,7 +17,7 @@ const SkillCard = ({ skill }: { skill: SkillItem }) => {
       <h6>{skill.title}</h6>
       {skill.skills.map(({ index, name, href, years }) => (
         <a
-          className='row transparent wave small-round'
+          className='row transparent wave round'
           key={index}
           {...(href && { target: "_blank", rel: "noreferrer", href })}
         >

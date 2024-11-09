@@ -41,7 +41,7 @@ const EducationCard = ({ education }: { education: EducationItem }) => {
             {education.extra.map(({ name, href }) => (
               <a
                 key={name}
-                className='row no-padding transparent wave small-round'
+                className='row no-padding transparent wave round'
                 href={href}
                 target='_blank'
                 rel='noreferrer'
