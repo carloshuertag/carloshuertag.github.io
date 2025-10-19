@@ -1,6 +1,16 @@
 [
   {
     "index": 0,
+    "coverSource": "https://fintechnews.ch/wp-content/uploads/2025/01/BlackRock-Enhances-Aladdin-Wealth-Platform-with-Investment-Navigator-Integration.jpg",
+    "title": "Application Engineer",
+    "startYear": 2025,
+    "endYear": 2025,
+    "description": "Application Engineer for the Multi-Asset Strategies and Solutions Lab",
+    "href": "https://www.blackrock.com/us/individual/investment-ideas/multi-asset-strategies-solutions",
+    "media": "https://cdn.prod.website-files.com/5ded36b5e942e74b13468d23/61fa471fa74de8a84ead82ff_xxQ6RY_SLoXD96W_BpxnYXZ4GVplJA2UMxfsyQySGD0JI-YN_2DLEk66DIHcj3KpNWFGy3bxvRspl5AyxX0DGfyvm-33G-8MNowaA-6zUm34u5AF0U1lHLtD4VeP0ZqWHeafuPq0.png"
+  },
+  {
+    "index": 1,
     "coverSource": "https://thelogisticsworld.com/wp-content/uploads/2023/08/Ibursa.jpg",
     "title": "Systems Analyst",
     "startYear": 2024,
@@ -10,7 +20,7 @@
     "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grupo_Financiero_Inbursa.png/1200px-Grupo_Financiero_Inbursa.png"
   },
   {
-    "index": 1,
+    "index": 2,
     "coverSource": "/RDD.png",
     "title": "Digital Didactic Resource",
     "startYear": 2024,
@@ -20,7 +30,7 @@
     "media": "https://gentle-ocean-0ee8b0410.4.azurestaticapps.net/"
   },
   {
-    "index": 2,
+    "index": 3,
     "coverSource": "/Democracyte.png",
     "title": "Democracyte",
     "startYear": 2022,
@@ -30,7 +40,7 @@
     "media": "https://www.youtube-nocookie.com/embed/6CT9WclJpOI?si=6vnGi9zq1wC7sC3j"
   },
   {
-    "index": 3,
+    "index": 4,
     "coverSource": "/SpaceRide.png",
     "title": "Space Ride",
     "startYear": 2018,
@@ -39,7 +49,7 @@
     "href": "https://github.com/rushtechnologies/SpaceRide"
   },
   {
-    "index": 4,
+    "index": 5,
     "coverSource": "/URadio.jpg",
     "title": "UЯRadio",
     "startYear": 2022,
@@ -49,7 +59,7 @@
     "media": "https://www.youtube-nocookie.com/embed/R-zyMeI4RZg?si=4iLzSEo1ZYSjo-8o"
   },
   {
-    "index": 5,
+    "index": 6,
     "coverSource": "/Aki.jpg",
     "title": "Aki",
     "startYear": 2021,
@@ -59,7 +69,7 @@
     "media": "https://www.youtube-nocookie.com/embed/A230_rcAudY?si=QMrW7faTUJ77oJz8"
   },
   {
-    "index": 6,
+    "index": 7,
     "coverSource": "/portrait.jpg",
     "title": "Movie Ratings and Reviews",
     "startYear": 2023,
@@ -68,7 +78,7 @@
     "href": "https://github.com/carloshuertag/intelligentSystems/blob/main/alexaSkillBot/alexaMovieSkill.ipynb"
   },
   {
-    "index": 7,
+    "index": 8,
     "coverSource": "/landscape.jpg",
     "title": "AR Tower Takedown",
     "startYear": 2023,
